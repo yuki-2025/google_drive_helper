@@ -3,7 +3,7 @@ Google_drive_helper: Instantly delete files, download them, edit permissions, an
 
 ### Step 1: Enable Google Drive API
 
-First, you need to enable the Google Drive API and create OAuth 2.0 credentials for your project.
+First, you need to enable the Google Drive API and create OAuth 2.0 credentials for your project (rename it as credential.json).
 
 ### Step 2: Install Package
  
